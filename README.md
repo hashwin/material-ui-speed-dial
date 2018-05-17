@@ -19,12 +19,12 @@ npm install @smollweide/material-ui-speed-dial
 
 ```jsx
 import React from 'react';
-import { withStyles } from 'material-ui/styles';
-import Button from 'material-ui/Button';
-import Avatar from 'material-ui/Avatar';
+import { withStyles } from '@material-ui/core/styles';
+import Button from '@material-ui/core/Button';
+import Avatar from '@material-ui/core/Avatar';
 
-import AddIcon from 'material-ui-icons/Add';
-import EditIcon from 'material-ui-icons/Edit';
+import AddIcon from '@material-ui/icons/Add';
+import EditIcon from '@material-ui/icons/Edit';
 
 import SpeedDial, { SpeedDialItem, SpeedDialLabel, SpeedDialBackdrop } from '@smollweide/material-ui-speed-dial';
 import presetFixedBottomRight from '@smollweide/material-ui-speed-dial/dist/presets/presetFixedBottomRight';

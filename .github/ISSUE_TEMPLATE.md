@@ -37,7 +37,7 @@ material-ui-speed-dial version: X.Y.Z
 <!-- Check whether this is still an issue in the most recent version -->
 
 - material-ui version: X.Y.Z
-- material-ui-icons version: X.Y.Z
+- @material-ui/icons version: X.Y.Z
 - react version: X.Y.Z
 - react-dom version: X.Y.Z
 - Platform: <!-- Mac, Linux, Windows -->
